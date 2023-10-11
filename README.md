@@ -1,3 +1,5 @@
+**About Me**
+
 👋 Hi, I’m Chuks
 - 📚 A recent MSc graduate in Business Analytics with previous strong background in Engineering and MBA.
 - 👨🏻‍💻 Skilled in R, SQL and Python programmming languages for sentiment analysis in text mining, conjoint analysis in product design and cluster analysis in customer segmentation.
